@@ -328,5 +328,6 @@
   {"name": "آرش", "gender": "male"},
   {"name": "آریا", "gender": "male"},
   {"name": "فرامرز", "gender": "male"},
-  {"name": "سعید", "gender": "male"}
+  {"name": "سعید", "gender": "male"},
+  {"name": "other_test_name", "gender": "other"}
 ]
